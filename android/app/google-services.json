@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "93735631772",
+    "firebase_url": "https://tutorial01-ead63.firebaseio.com",
+    "project_id": "tutorial01-ead63",
+    "storage_bucket": "tutorial01-ead63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93735631772:android:bd6d2bb6ce5da621b86659",
+        "android_client_info": {
+          "package_name": "com.altiron.tutorial_01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93735631772-sqm6neeba0kgsduf30rjbjqmj3cof8sq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCASI3esYHTgteTct8lyK2O2qGaMYkRsOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93735631772-sqm6neeba0kgsduf30rjbjqmj3cof8sq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
